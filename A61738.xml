@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Strange and dreadful relation of a horrible tempest of thunder and lightning and of strange apparitions in the air, accompanied with whirlwinds, gusts of hail and rain which happened on the tenth of this instant June, at a place near Wetherby in the County of York, with the account how the top of a strong oak ... was taken off by a sheet of fire ... : as likewise, another strange relation of a monstrous child ... born ... on the nineteenth of May last.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61738</idno>
+            <idno type="STC">Wing S5815B</idno>
+            <idno type="STC">ESTC R29535</idno>
+            <idno type="EEBO-CITATION">11168440</idno>
+            <idno type="OCLC">ocm 11168440</idno>
+            <idno type="VID">46486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46486)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1432:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Strange and dreadful relation of a horrible tempest of thunder and lightning and of strange apparitions in the air, accompanied with whirlwinds, gusts of hail and rain which happened on the tenth of this instant June, at a place near Wetherby in the County of York, with the account how the top of a strong oak ... was taken off by a sheet of fire ... : as likewise, another strange relation of a monstrous child ... born ... on the nineteenth of May last.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Attested and confirmed by several persons of known worth and integrity."</note>
+                  <note>Imperfect: faded, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abnormalities, Human.</term>
+               <term>Natural disasters.</term>
+               <term>Wetherby (York) --  Storm, 1680.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:46486:1"/>
+            <pb n="1" facs="tcp:46486:1"/>
+            <head>The Strange and Dreadful RELATION OF A Horrible Tempeſt OF <hi>Thunder, Lightning,</hi> and of <hi>Strange Apparitions</hi> in the <hi>Air,</hi> accompanied with <hi>Whirlwinds, Guſts</hi> of <hi>Hail</hi> and <hi>Rain.</hi>
+            </head>
+            <head type="sub">Which happened on the <hi>Tenth</hi> of this Inſtant <hi>June,</hi> at a Place near <hi>Wetherby,</hi> in the County of <hi>York.</hi>
+            </head>
+            <argument>
+               <p>
+                  <hi>With the Account, how the Top of a Strong Oak, con<g ref="char:EOLhyphen"/>taining one Load of Wood, was taken off by a Sheet of Fire, wrap<g ref="char:EOLhyphen"/>ped in a Whirlwind, and carryed through the Air, half a Mile diſtant from the Place. As alſo, How it broke down ſeveral Trees in</hi> 
+                  <abbr>Eſq;</abbr> Belbye's <hi>Wood and Orchard, ſhattered his Houſe, and did muth Harm. The Truth of which, is Atteſted by Perſons, whoſe Names are herein Specified.</hi>
+               </p>
+               <p>
+                  <hi>As likewiſe, Another Strange</hi> RELATION <hi>of a Monſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ous Child, with Two Heads, Four Arms, Four Legs, and all Things thereunto belonging: Born at a Village, called</hi> Ill-Brewers, <hi>in the County of</hi> Sommerſet, <hi>on the</hi> Nineteenth <hi>of</hi> May <hi>laſt. With ſeveral other Circumſtances, and Curious Obſervations to the Won<g ref="char:EOLhyphen"/>der of all that have beheld it.</hi>
+               </p>
+            </argument>
+            <p>
+               <hi>Atteſted and Confirmed by ſeveral Perſons of known Worth &amp; Integrity.</hi>
+            </p>
+            <p>GReat and Boundleſs is the Power of the All-Wiſe and Omnipotent <hi>God;</hi> who, by his Eternal <hi>Word,</hi> from <hi>Chaos</hi> Rude and Wild, firſt raiſed this Glorious Fa<g ref="char:EOLhyphen"/>brick of the Univerſal World; and ſo with equal Poiſe, diſpoſed the Warring Elements into their Proper Places of Abode: Yet when he pleaſes, can let looſe their Reins, and Routing Fires, permit to rend the Watery Fleeces of the Skyes, Black Clouds involving Rapid Whirlwinds, and Deſtructive
+<pb n="2" facs="tcp:46486:2"/>Flame, command as <hi>Heralds</hi> out, for to make known the Ter<g ref="char:EOLhyphen"/>ror of his Might. Winged Lightning, and Red Thunder-bolts declare his Power through the wide Arch of Heavens Glittering Canopy; whil'ſt loud Storms and Tempeſts, mix with Prodi<g ref="char:EOLhyphen"/>gies and Portents, (thoſe Harbengers, and Fore-running Omens of ſome ill Event:) Two of which lately happening in this <hi>Brittiſh-Iſle,</hi> we here ſhall give the <hi>Reader</hi> a Relation of, variouſly, both in Earth and Air, thoſe Specious Elements.</p>
+            <p>But firſt, upon the <hi>Tenth</hi> of this Inſtant <hi>June,</hi> ſeveral People being abroad for Recreations ſake, or as Occaſions otherwiſe re<g ref="char:EOLhyphen"/>quired, at a Place called <hi>Wetherby,</hi> in the County of <hi>York</hi> between <hi>Six</hi> and <hi>Seven</hi> in the Evening, it being very Fair, and all the Skies ſerene; when, on a ſuddain, (to the Admiration of the Obſervers) Black Clouds drove furiouſly on before, <hi>South-Weſtern</hi>-Winds obſcured the <hi>Sun</hi>'s bright Face, and ſpread them<g ref="char:EOLhyphen"/>ſelves over Heavens Cryſtal-Arch: So that, ſuch Darkneſs ſtrait involved the Earth, as many times is uſual in ſome Great <hi>E<g ref="char:EOLhyphen"/>clipſe;</hi> the which made many ſtand amazed at the ſuddain Al<g ref="char:EOLhyphen"/>teration. When lo, the opening Clouds from their black Bo<g ref="char:EOLhyphen"/>ſoms, ſent out Prodigious Flaſhes of <hi>Aetherial Fire,</hi> and Thun<g ref="char:EOLhyphen"/>ders loud, with Storms of Hail or Rain, exceeding Great; the which no ſooner ended, but the Black Clouds drew off, and a Cloud more Bright appeared, yet Dusky; and from either ſide of it, ſtrange Flaſhes, without Thunder, came. And, as the People (who were then Spectatours) do affirm, Appearances of ſeveral Shapes, were ſeen for to wave in and out; whil'ſt it ſtill Thundred from the <hi>North-Weſt,</hi> in equal Diſtances, and ren<g ref="char:EOLhyphen"/>ding Motions, ſeldom ſeen. This had not continued paſt half an Hour, but from the Breaking Cloud, (to the great Con<g ref="char:EOLhyphen"/>ſternation of all preſent) a ſwift Guſt of Fire deſcended; or more properly, a <hi>Whirlwind</hi> of Flame, much like a Sheet, or lit<g ref="char:EOLhyphen"/>tle Cloud, which with head-long force, fell a conſiderable way. Then turning a-ſlant, it took off the Top of a Large <hi>Oak,</hi> con<g ref="char:EOLhyphen"/>taining almoſt (if not altogether) one Load of Wood; and, like a Hurricane, drove it before it through the Air, with rapid Fury, till it came to Eſquire <hi>Belbye</hi>'s Wood, at a great Diſtance whence it grew, and near to <hi>Wetherby;</hi> where entering, it forced off Branches, Arms, and Tops of Trees, ſo large, as ſtruck all with Admiration, who have ſince <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. And paſſing then into his Orchard, the Tempeſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> aptly, Hurricane) broke ſeveral young Trees, gro<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Houſe, ſhattered the Corner of his Hall, blew <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and
+<pb n="3" facs="tcp:46486:2"/>broke the Windows. So that, the like Guſt, or Whirl-wind of Tempeſtuous Fire, has never been heard of in theſe Parts before; ſo Great, ſo Strange, and ſo Amazing.</p>
+            <p>The Top of the Tree firſt blown off, lies now at the Place where it fell, for all Spectatours to behold; and not in vain: For Hundreds, in theſe Parts, have vouchſafed to come, and view the Wonder, and thoſe none of the meaneſt Rank. And it is adjudged by ſome, to be now almoſt a Mile from the Trunck or Body, from whence it was firſt taken; that being alſo ſhattered, ſinged, and a ſtrong Scent of Brim-Stone ſtill remaining on it.</p>
+            <p>If any one queſtion the Truth of <hi>This,</hi> they may repair for farther Satisfaction, to Mr. <hi>Zacariah Thorp,</hi> at Mr. <hi>Wittherels,</hi> in <hi>Charter-Houſe-Lane, London;</hi> and there receive an Ample Teſti<g ref="char:EOLhyphen"/>ny of the Truth of what has happened; or to <hi>Cornelius Thorp,</hi> li<g ref="char:EOLhyphen"/>ving in the Town before-mentioned, where this Hap befell. Atteſted likewiſe there, by many Hundreds.</p>
+            <p>
+               <hi>Veritas Laudatur &amp; Alget.</hi>
+            </p>
+            <p>And now, to divertiſe my Reader, and ſatisfie his or her far<g ref="char:EOLhyphen"/>ther Curioſity, I ſhall give them an Account of a Portent leſs dreadful, though perhaps, more wonderful and amazing, as ſel<g ref="char:EOLhyphen"/>domer happening; for I muſt declare (to take off the ſuſpition of that Ill any may conceive, or vainly prognoſticate unto themſelves) that theſe kind of Hurricans or tempeſts of Collateral Winds, are very common in the <hi>Weſtern</hi> parts of the World; as <hi>Virginia, Guin<g ref="char:EOLhyphen"/>nia, Barbadoes,</hi> and other places; though ſeldom in the <hi>North.</hi>
+            </p>
+            <p>But to our enſuing Diſcourſe, or ſecond Wonder, ſo great and Monſtrous a Birth, not happening in the Memory of Man, <hi>viz,</hi> A Child lately Born at a Certain Village called <hi>Ill-Brewers,</hi> in the County of <hi>Somerſet;</hi> ſo prodigiouſly ſtrange (beyond the ordinary Courſe of Natures handy-work) that all preſent (at its firſt ap<g ref="char:EOLhyphen"/>pearance) ſtarted back, and ſtood amazed with admiration, to behold ſuch an unexpected ſight: For on the 19th. of <hi>May</hi> laſt paſt, from the Mothers Womb, big with the Monſtrous Birth, by Art and Natures Kind aſſiſtance, Sprung a Female Child, or two Chil<g ref="char:EOLhyphen"/>dren joyned together by the bodies, ſide to ſide. Heaven and Providence ſo ordering, no doubt, In the dark Cells of Generati<g ref="char:EOLhyphen"/>on; for from the united body, grew two necks; and on each, a Head proportionable, adorn'd with all things ſuitable; as Noſes, Eyes, Ears, Mouths and Tongues, as if it had been two divided births. From out the Shoulders, on each ſide, grow a Brace of Arms, with Fingers and Thumbs proportionable, all plyable,
+<pb n="4" facs="tcp:46486:3"/>and fit for Uſe; ſo dexterouſly fixed or grafted on, as any can Ima<g ref="char:EOLhyphen"/>gine or conceive: The body ſeeming but as one, two Nipples where the breaſts ſhould riſe, and but one row of Ribs on either ſide; one falling Creaſe, or vally between, the belly likewiſe ſeems but one, and to one navel ſutes; yet a Seem apears, as if mutually joyned; the Privities and Orifice, or Fundaments, for Vent or Evacuation, are diſtinct; and from the Huckles grow, on either ſide the Neck, two Legs, with Joynts, and all things anſwering in proportion, juſt and equal lengths; with Feet and Toes well fixed: So curious was Dame Nature, to let nothing fail, that might conduce to make her Wonder great, and moſt admirable. The father of this double Infant, Is named <hi>Herring,</hi> A Laborious man and of mean rank; but of an honeſt Demean, and good repute. His Wife before this, having born him ſeveral Children, to the number of five. When this Child was born, (according to the report of the Midwife, and ſeveral other good Women, aſſiſting at the Labour) the two In<g ref="char:EOLhyphen"/>nermoſt Armes were twined about the different necks, the two heads ſeldom apply, their Mouthes to the Breſts; but ſuck divided, and when one ſucks, the other often weeps.</p>
+            <p>A Day, or Two after the Delivery, the Parents were adviſed by ſeveral, to have the Child (or Children ſo united) to be baptized; the which, (according to the ceremony of the Church) was performed, with Godfather and Godmothers; naming them <hi>Priſcilla,</hi> and <hi>Aqvilla.</hi> After which, being tenderly looked to, they gathered ſtrength, and now look lively, brisk, and well, being likely to continue: And it is deſigned, if they live, that they ſhall be brought to <hi>London,</hi> there to be expoſed to View, for the farther ſatisfaction of the curious, or the unbelieving; whoſe faith can reach no farther, than their eyes can ſee. The houſe where this Monſtrous Birth of Nature was produced, Is next adjoyning to Juſtice <hi>Waldens,</hi> 
+               <abbr>Eſq;</abbr> in the Town and County aforeſaid.</p>
+            <p>This is atteſted by many Perſons of worth and Good repute. But eſpecially, by Mr. <hi>Thomas Warren,</hi> an Apothecary, living in <hi>Lau<g ref="char:EOLhyphen"/>rence-Lane, London,</hi> who received it from the Parents.</p>
+            <p>Thus they all behold, and with wonder ſeriouſly conſider the marvellous Deeds of the All-wiſe Creator; who diſpoſes of his works, as beſt ſeems fit unto him; whoſe will, is his Law; and pow<g ref="char:EOLhyphen"/>er Immenſe, Omnipotent, and boundleſs, without end or limita<g ref="char:EOLhyphen"/>tion. So that, all the ſons of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>en are, before him, but as the clay in the hands of the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ho can mould and form us, as it pleaſes Him, without our <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or leaſt conſent.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46486:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
